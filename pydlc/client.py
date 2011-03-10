@@ -61,7 +61,7 @@ class Client(object):
             except IndexError:
                 pass
 
-            break
+            #break
 
 def main():
     import sys
